@@ -1,0 +1,3 @@
+plane		45
+free		60
+tree		75

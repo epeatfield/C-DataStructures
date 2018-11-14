@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\emmap\documents\visual studio 2017\projects\test\test\source.cpp(38): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\emmap\documents\visual studio 2017\projects\test\test\source.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\emmap\documents\visual studio 2017\projects\test\test\source.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Test.vcxproj -> C:\Users\emmap\documents\visual studio 2017\Projects\Test\Debug\Test.exe
+  Test.vcxproj -> C:\Users\emmap\documents\visual studio 2017\Projects\Test\Debug\Test.pdb (Partial PDB)

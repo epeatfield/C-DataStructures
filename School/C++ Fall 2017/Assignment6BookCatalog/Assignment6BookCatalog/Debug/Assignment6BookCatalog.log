@@ -1,0 +1,6 @@
+﻿  BookApp.cpp
+  Book.cpp
+c:\users\emmap\documents\visual studio 2017\projects\assignment6bookcatalog\assignment6bookcatalog\book.cpp(68): warning C4101: 'ch': unreferenced local variable
+  Generating Code...
+  Assignment6BookCatalog.vcxproj -> C:\Users\emmap\documents\visual studio 2017\Projects\Assignment6BookCatalog\Debug\Assignment6BookCatalog.exe
+  Assignment6BookCatalog.vcxproj -> C:\Users\emmap\documents\visual studio 2017\Projects\Assignment6BookCatalog\Debug\Assignment6BookCatalog.pdb (Partial PDB)
